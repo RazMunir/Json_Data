@@ -18,7 +18,8 @@
                 "gmtOffsetName": "UTC+04:30",
                 "abbreviation": "AFT",
                 "tzName": "Afghanistan Time"
-            }],
+            }
+	],
 	"latitude": "33.00000000",
         "longitude": "65.00000000"
     }
