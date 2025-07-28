@@ -1,26 +1,14 @@
 [
     {
+        "id": 0,
+        "name": "rm.c151010@gmail.com"
+    },
+    {
         "id": 1,
-        "name": "Afghanistan",
-        "iso3": "AFG",
-        "iso2": "AF",
-		"capital": "Kabul",
-        "currency": "AFN",
-        "currency_symbol": "؋",
-        "tld": ".af",
-        "native": "افغانستان",
-        "region": "Asia",
-        "subregion": "Southern Asia",
-        "timezones": [
-            {
-                "zoneName": "Asia\/Kabul",
-                "gmtOffset": 16200,
-                "gmtOffsetName": "UTC+04:30",
-                "abbreviation": "AFT",
-                "tzName": "Afghanistan Time"
-            }
-	],
-	"latitude": "33.00000000",
-        "longitude": "65.00000000"
+        "name": "durmd25v1"
+    },
+    {
+        "id": 2,
+        "name": "1625231144"
     }
 ]
