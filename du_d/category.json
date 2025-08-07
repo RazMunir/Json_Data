@@ -1,0 +1,72 @@
+[
+    {
+        id: "0",
+        code: "G",
+        name: "Grocery"
+    },
+    {
+        id: "1",
+        code: "H",
+        name: "Household"
+    },
+    {
+        id: "2",
+        code: "S",
+        name: "Stationary"
+    },
+    {
+        id: "3",
+        code: "K",
+        name: "Kitchen"
+    },
+    {
+        id: "4",
+        code: "GD",
+        name: "Gift & Decore"
+    },
+    {
+        id: "5",
+        code: "J",
+        name: "Jewellery"
+    },
+    {
+        id: "6",
+        code: "PM",
+        name: "Perfume & Make Up"
+    },
+    {
+        id: "7",
+        code: "T",
+        name: "Toys"
+    },
+    {
+        id: "8",
+        code: "B",
+        name: "Bags"
+    },
+    {
+        id: "9",
+        code: "C",
+        name: "Caps"
+    },
+    {
+        id: "10",
+        code: "T",
+        name: "Towels"
+    },
+    {
+        id: "11",
+        code: "S",
+        name: "Shoes"
+    },
+    {
+        id: "12",
+        code: "Be",
+        name: "Belts"
+    },
+    {
+        id: "13",
+        code: "Ge",
+        name: "Garments"
+    }
+];
