@@ -1,0 +1,20 @@
+[
+  {
+    id: 0,
+    cname: "Al Ain Farms",
+    dname: "Shibin",
+    cnumber: "0525520582"
+  },
+  {
+    id:1,
+    cname: "AAK Middle East",
+    dname: "Awir",
+    cnumber: "052"
+  },
+  {
+    id:2,
+    cname: "Jaleel Traders",
+    dname: "Company",
+    cnumber: "05277"
+  }
+]
